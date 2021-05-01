@@ -36,7 +36,7 @@ function App() {
         <header className="row">
           <div>
             <Link className="brand" to="/">
-              amazona
+              Isano
             </Link>
           </div>
           <div>
